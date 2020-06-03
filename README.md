@@ -1,7 +1,7 @@
 # Machine Intelligence
 Assignments completed as part of SYDE 522 at the University of Waterloo.
 
-## Learning Outcomes
+## Topics
 * Assignment 1: PCA 
     * Working with images using scikit-image
     * PCA using scikit-learn
